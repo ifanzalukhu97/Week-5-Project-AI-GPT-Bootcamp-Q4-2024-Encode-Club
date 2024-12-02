@@ -84,6 +84,11 @@ Follow these steps:
 
 ## Report / Documentation
 ![Image1](screenshots/image1.png)
+![Image2](screenshots/image2.png)
+![Image3](screenshots/image3.png)
+
+This happens when the uploaded image is unrecognized by the model. The confidence score is low. This occurs when the image does not depict a known object, is not an animal, or features an animal that is not supported in its table.
+![Image4](screenshots/image4.png)
 
 
 ## Contributors
