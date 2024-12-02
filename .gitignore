@@ -41,3 +41,4 @@ next-env.d.ts
 
 /backend-server/.venv/
 backend-server/.idea
+client-frontend/.idea
