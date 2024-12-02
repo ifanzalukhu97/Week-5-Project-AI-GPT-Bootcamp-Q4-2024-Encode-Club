@@ -93,3 +93,7 @@ This happens when the uploaded image is unrecognized by the model. The confidenc
 
 ## Contributors
 - [Ifanzalukhu97](https://github.com/ifanzalukhu97) (ID: oBklq0)
+
+
+## Image Credits
+All example images used in this documentation are sourced from [Pexels](https://www.pexels.com/), a free stock photo and video website.
